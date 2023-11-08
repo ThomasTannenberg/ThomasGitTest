@@ -21,6 +21,9 @@ public class Main {
             System.out.println("Lösche Bug...");
             // Bug squashed
             System.out.println("Bug gelöscht. Weiter mit dem coding!");
+
+            //out
+            System.exit(0);
         }
     }
 }
